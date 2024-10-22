@@ -7,7 +7,7 @@
 - I’m interested in learning to program stuff<br>
 - I’m currently learning all the things I'm interested in<br>
 - I’m looking to collaborate on everything I can<br>
-- You can reach me on my email: ayenaxx@gmail.com<br>
+- You can reach me on my email: epashaliev02@gmail.com<br>
 - I am from Bulgaria but im residing on Spain
 
 <!---
