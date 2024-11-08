@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I'm a web developer based in Spain but born in Bulgaria. All of this started when I was 15 years old and I decided to install and use Linux instead of Windows and I loved it. Since then I went to study to become a web developer. I am currently working for work in the field of web development using technologies in the frontend like React, Vue or Angular and Spring Boot in the backed. I'm open to learn new technologies or continue improving my skills in this ones I already use. Feel free to email me if you are interested in having a talk or working with me.
+I'm a web developer based in Spain, originally from Bulgaria. My journey began at 15 when I switched to Linux and fell in love with technology. Since then, I've pursued a career in web development and currently work with frontend frameworks like React, Vue, and Angular, as well as backend technologies like Spring Boot. Outside of work, I enjoy going to the gym, riding motorcycles, playing games, and going out with friends. I'm always eager to learn new tools or refine my existing skills. Feel free to reach out if you'd like to connect or collaborate!
 
 * 🌍  I'm based in Spain, La Rioja
 * 🖥️  See my portfolio at [portfolio](http://eyman-pashaliev.dev)
