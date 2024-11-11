@@ -10,6 +10,7 @@ I'm a web developer based in Spain, originally from Bulgaria. My journey began a
 * 🖥️  See my portfolio at [portfolio](http://eyman-pashaliev.dev)
 * ✉️  You can contact me at [epashaliev02@gmail.com](mailto:epashaliev02@gmail.com)
 * ⚡  I'm open to work!!
+* I have another github account btw: [secondary account](https://www.github.com/DAM111Jesuitas)
 
 ### Skills
 
